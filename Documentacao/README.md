@@ -1,1 +1,2 @@
-Esta pasta deve ser usada para guardar toda documentação necessária para o projeto.
+Esta pasta deve ser usada para guardar documentos de engenharia
+de software do projeto.
